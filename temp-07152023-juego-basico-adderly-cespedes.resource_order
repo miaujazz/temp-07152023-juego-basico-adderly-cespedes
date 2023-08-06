@@ -18,6 +18,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sprBonus","order":8,"path":"sprites/sprBonus/sprBonus.yy",},
+    {"name":"objPoint","order":4,"path":"objects/objPoint/objPoint.yy",},
+    {"name":"objPowerPoint","order":5,"path":"objects/objPowerPoint/objPowerPoint.yy",},
     {"name":"sprPlayerLeft","order":3,"path":"sprites/sprPlayerLeft/sprPlayerLeft.yy",},
     {"name":"objWall","order":1,"path":"objects/objWall/objWall.yy",},
     {"name":"objEnemy","order":2,"path":"objects/objEnemy/objEnemy.yy",},
@@ -27,6 +29,7 @@
     {"name":"sprTileset","order":10,"path":"sprites/sprTileset/sprTileset.yy",},
     {"name":"sprEnemy","order":5,"path":"sprites/sprEnemy/sprEnemy.yy",},
     {"name":"sprPlayerRight","order":9,"path":"sprites/sprPlayerRight/sprPlayerRight.yy",},
+    {"name":"objGameService","order":3,"path":"objects/objGameService/objGameService.yy",},
     {"name":"sprEnemyScared","order":11,"path":"sprites/sprEnemyScared/sprEnemyScared.yy",},
     {"name":"sprPlayerUp","order":1,"path":"sprites/sprPlayerUp/sprPlayerUp.yy",},
     {"name":"sprPlayerDown","order":4,"path":"sprites/sprPlayerDown/sprPlayerDown.yy",},

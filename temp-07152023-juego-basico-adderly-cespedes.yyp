@@ -36,6 +36,8 @@
   "resources": [
     {"id":{"name":"sprBonus","path":"sprites/sprBonus/sprBonus.yy",},},
     {"id":{"name":"sprPlayerDead","path":"sprites/sprPlayerDead/sprPlayerDead.yy",},},
+    {"id":{"name":"objPoint","path":"objects/objPoint/objPoint.yy",},},
+    {"id":{"name":"objPowerPoint","path":"objects/objPowerPoint/objPowerPoint.yy",},},
     {"id":{"name":"sprPlayerLeft","path":"sprites/sprPlayerLeft/sprPlayerLeft.yy",},},
     {"id":{"name":"objWall","path":"objects/objWall/objWall.yy",},},
     {"id":{"name":"objEnemy","path":"objects/objEnemy/objEnemy.yy",},},
@@ -45,6 +47,7 @@
     {"id":{"name":"sprTileset","path":"sprites/sprTileset/sprTileset.yy",},},
     {"id":{"name":"sprEnemy","path":"sprites/sprEnemy/sprEnemy.yy",},},
     {"id":{"name":"sprPlayerRight","path":"sprites/sprPlayerRight/sprPlayerRight.yy",},},
+    {"id":{"name":"objGameService","path":"objects/objGameService/objGameService.yy",},},
     {"id":{"name":"sprEnemyScared","path":"sprites/sprEnemyScared/sprEnemyScared.yy",},},
     {"id":{"name":"sprPlayerUp","path":"sprites/sprPlayerUp/sprPlayerUp.yy",},},
     {"id":{"name":"sprPlayerDown","path":"sprites/sprPlayerDown/sprPlayerDown.yy",},},

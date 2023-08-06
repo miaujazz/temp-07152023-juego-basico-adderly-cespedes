@@ -15,7 +15,7 @@ if place_snapped(64,64)
 		// Derecha
 		if random(3) < 1 &&  place_free(x+1,y)
 		{
-			hspeed = -enemySpeed;
+			hspeed = enemySpeed;
 			vspeed = 0;
 		}
 	}
@@ -24,15 +24,15 @@ if place_snapped(64,64)
 		// Arriba
 		if random(3) < 1 &&  place_free(x,y-1)
 		{
-			hspeed = -enemySpeed;
-			vspeed = 0;
+			hspeed = 0;
+			vspeed = -enemySpeed;
 		}
 		
 		// Abajo
 		if random(3) < 1 &&  place_free(x,y+1)
 		{
-			hspeed = -enemySpeed;
-			vspeed = 0;
+			hspeed = 0;
+			vspeed = enemySpeed;
 		}
 	}
 }
