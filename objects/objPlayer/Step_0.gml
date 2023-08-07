@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+if (global.Hit) exit;
 
 if keyboard_check(vk_right) && place_free(x+1,y) && place_snapped(32,32)
 {
