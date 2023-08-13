@@ -27,6 +27,7 @@
     {"name":"sprPowerPoint","order":7,"path":"sprites/sprPowerPoint/sprPowerPoint.yy",},
     {"name":"sprPoint","order":6,"path":"sprites/sprPoint/sprPoint.yy",},
     {"name":"sprTileset","order":10,"path":"sprites/sprTileset/sprTileset.yy",},
+    {"name":"objDisplayValues","order":6,"path":"objects/objDisplayValues/objDisplayValues.yy",},
     {"name":"sprEnemy","order":5,"path":"sprites/sprEnemy/sprEnemy.yy",},
     {"name":"sprPlayerRight","order":9,"path":"sprites/sprPlayerRight/sprPlayerRight.yy",},
     {"name":"objGameService","order":3,"path":"objects/objGameService/objGameService.yy",},

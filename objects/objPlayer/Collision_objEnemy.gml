@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (global.Power) 
+if (other.sprite_index == sprEnemyScared) 
 {
 	global.Points += 200;
 	
