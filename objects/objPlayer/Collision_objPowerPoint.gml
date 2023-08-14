@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_play_sound(sndEatGhost, 10, false);
+
 alarm[0] = room_speed * 2;
 global.Points += 50;
 global.Power = true;

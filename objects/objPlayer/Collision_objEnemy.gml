@@ -3,6 +3,7 @@
 if (other.sprite_index == sprEnemyScared) 
 {
 	global.Points += 200;
+	audio_play_sound(sndEatGhost, 10, false);
 	
 	with(other)
 	{
@@ -16,6 +17,9 @@ if (other.sprite_index == sprEnemyScared)
 }
 else if (!global.Hit) 
 {
+	audio_stop_all();
+	audio_play_sound(sndDeath, 10, false);
+	
 	speed = 0;
 	global.Lives -= 1;
 	sprite_index = sprPlayerDead;
