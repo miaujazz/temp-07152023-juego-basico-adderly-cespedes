@@ -10,4 +10,8 @@ if (sprite_index == sprPlayerDead)
 	image_index = 0;
 	
 	global.Hit = false;	
+	
+	// restart
+	audio_play_sound(sndIntro, 10, false);
+	instance_deactivate_object(objEnemy);
 }
